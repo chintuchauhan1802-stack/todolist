@@ -1,0 +1,1 @@
+print("its an gen ai developemnt course")
